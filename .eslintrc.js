@@ -78,6 +78,8 @@ module.exports = {
         'no-underscore-dangle': OFF,
         'no-unused-expressions': OFF,
         'no-useless-constructor': OFF,
+        indent: ['error', 4],
+        'react/jsx-indent-props': ['error', 4],
     },
     overrides: [
         {
